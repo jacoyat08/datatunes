@@ -1,0 +1,8 @@
+myo-python
+python-csv
+datetime
+matplotlib
+pandas
+seaborn
+ipywidgets
+jupyter
